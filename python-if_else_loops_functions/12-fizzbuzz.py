@@ -10,4 +10,3 @@ def fizzbuzz():
         else:
             print("{:d} ".format(i), end="")
     print("Buzz ", end="")
-    print("$", end="")
