@@ -81,9 +81,11 @@ class Square:
             Set the position of the square.
             value (tuple): The new position of the square.
         """
-        if (not isinstance(value, tuple) or len(value) != 2 or
-                not all(isinstance(num, int) for num in value) or
-                not all(num >= 0 for num in value)):
+        if (
+            not isinstance(value, tuple) or len(value) != 2 or
+            not all(isinstance(x, int) for x in value) or
+            not all(x >= 0 for x in value)
+        ):
             raise TypeError("position must be a tuple of 2 positive integers")
         self.__position = value
 
@@ -91,7 +93,7 @@ class Square:
         """
             print spaces when position[1] > 0
         """
-        if self.__size == 0 or self.__size <= 0:
+        if self.__size == 0:
             print()
         else:
             print("\n" * self.__position[1], end="")
