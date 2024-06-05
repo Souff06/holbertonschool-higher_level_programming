@@ -91,7 +91,7 @@ class Square:
         """
             print spaces when position[1] > 0
         """
-        if self.__size == 0:
+        if self.__size == 0 or self.__size <= 0:
             print()
         else:
             print("\n" * self.__position[1], end="")
