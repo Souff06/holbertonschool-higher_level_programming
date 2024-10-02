@@ -3,10 +3,11 @@
 Function to print all integers of a list, one per line.
 """
 
+
 def print_list_integer(my_list=[]):
     """
     Prints each integer in the list on a new line.
-    
+
     Args:
         my_list: List of integers to be printed.
     """
