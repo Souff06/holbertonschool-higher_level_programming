@@ -7,10 +7,12 @@ import math
 class Shape(ABC):
     @abstractmethod
     def area(self):
+        """Méthode abstraite pour calculer l'aire."""
         pass
 
     @abstractmethod
     def perimeter(self):
+        """Méthode abstraite pour calculer le périmètre."""
         pass
 
 
@@ -20,7 +22,7 @@ class Circle(Shape):
         self.radius = radius
 
     def area(self):
-        return math.pi * (self.radius ** 2)
+        return math.pi * self.radius ** 2
 
     def perimeter(self):
         return 2 * math.pi * self.radius
@@ -39,7 +41,7 @@ class Rectangle(Shape):
         return 2 * (self.width + self.height)
 
 
-# Fonction shape_info utilisant le duck typing
+# Fonction shape_info qui utilise le duck typing
 def shape_info(shape):
     print(f"Area: {shape.area()}")
     print(f"Perimeter: {shape.perimeter()}")
