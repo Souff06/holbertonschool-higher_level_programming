@@ -22,4 +22,4 @@ class Student:
     def reload_from_json(self, json):
         """load json to replace data of this object"""
         for key, value in json.items():
-                setattr(self, key, value)
+            setattr(self, key, value)
