@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
+
+
 import json
+
 
 def serialize_and_save_to_file(data, filename):
     """
@@ -17,9 +20,11 @@ def serialize_and_save_to_file(data, filename):
     except Exception as e:
         print(f"Error occurred during serialization: {e}")
 
+
 def load_and_deserialize(filename):
     """
-    Charge un fichier JSON et désérialise son contenu pour recréer un dictionnaire Python.
+    Charge un fichier JSON et désérialise son
+    contenu pour recréer un dictionnaire Python.
 
     :param filename: Nom du fichier d'entrée (JSON).
     :return: Dictionnaire Python avec les données désérialisées.
