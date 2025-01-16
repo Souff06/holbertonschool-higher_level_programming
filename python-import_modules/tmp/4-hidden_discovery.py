@@ -1,11 +1,11 @@
 #!/usr/bin/python3
-import hidden_4  # Importer le module compilé
+import sys
+sys.path.append('/tmp')  # Ajoute /tmp au chemin de recherche des modules
 
 if __name__ == "__main__":
-    # Utiliser dir() pour obtenir tous les noms définis dans le module
-    names = dir(hidden_4)
+    import hidden_4
 
-    # Filtrer et trier les noms
+    names = dir(hidden_4)
     for name in sorted(names):
-        if not name.startswith("__"):  # Exclure les noms commençant par __
-            print(name)  # Afficher les noms un par un
+        if not name.startswith("__"):
+            print(name)
