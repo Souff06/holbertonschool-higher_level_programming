@@ -5,5 +5,5 @@
 
 
 def lookup(obj):
-    list_obj = dir(obj)
-    return list_obj
+    """Returns a list object"""
+    return dir(obj)
