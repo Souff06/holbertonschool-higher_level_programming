@@ -3,6 +3,7 @@
     Module containing BaseGeometry, Rectangle, and Square classes.
 """
 
+
 class BaseGeometry:
     """
         BaseGeometry class with methods area() and integer_validator()
