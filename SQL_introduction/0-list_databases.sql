@@ -1,4 +1,2 @@
-'''
-    list all databes
-'''
+--- list all databes
 SHOW DATABASES;
