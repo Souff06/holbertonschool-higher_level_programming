@@ -1,26 +1,3 @@
-ga 2-matrix_divided.py 3-say_my_name.py 4-print_square.py 5-text_indentation.py 6-max_integer.py 
-gc 'gg'
-gp
-cd tests/
-ls
-ga 3-say_my_name.txt 4-print_square.txt 5-test_indentation.txt 6-max_integer.py 
-gc 'gg'
-gp
-clear
-ls
-cd
-ls
-git pull
-ls
-rm -rf holbertonschool-higher_level_programming/
-ls
-git clone https://github.com/Souff06/holbertonschool-higher_level_programming.git
-ls
-cd holbertonschool-higher_level_programming/
-clear
-ls
-code .
-l
 ls
 code .
 ls
@@ -1998,3 +1975,26 @@ ls
 curl -sL https://deb.nodesource.com/setup_20.x -o nodesource_setup.sh
 sudo bash nodesource_setup.sh
 sudo apt install nodejs -y
+npm run lint -- --fix
+sudo apt install npm
+cd ES6_basic/
+ls
+cd
+ls
+rm -r holbertonschool-web_back_end/
+ls
+git clone https://github.com/Souff06/holbertonschool-web_back_end.git
+ls
+cd holbertonschool-web_back_end/
+mkdir ES6_basic
+cd ES6_basic/
+ls
+vi README.md
+cd ..
+ls
+cd holbertonschool-web_back_end/
+ls
+cd ES6_basic/
+ls
+cd ..
+rm -rf holbertonschool-web_back_end/

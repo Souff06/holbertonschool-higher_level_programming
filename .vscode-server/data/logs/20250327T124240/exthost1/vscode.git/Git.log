@@ -1,0 +1,9 @@
+2025-03-27 12:42:44.570 [info] [main] Log level: Info
+2025-03-27 12:42:44.570 [info] [main] Validating found git in: "git"
+2025-03-27 12:42:44.571 [info] [main] Using git "2.34.1" from "git"
+2025-03-27 12:42:44.571 [info] [Model][doInitialScan] Initial repository scan started
+2025-03-27 12:42:44.571 [warning] [Model][traverseWorkspaceFolder] Unable to read workspace folder '/home/soufian/holbertonschool-web_back_end': Error: ENOENT: no such file or directory, scandir '/home/soufian/holbertonschool-web_back_end'
+2025-03-27 12:42:44.571 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/soufian/holbertonschool-web_back_end". Error:Error: ENOENT: no such file or directory, realpath '/home/soufian/holbertonschool-web_back_end'
+2025-03-27 12:42:44.571 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-03-27 12:42:45.015 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/soufian/holbertonschool-web_back_end". Error:Error: ENOENT: no such file or directory, realpath '/home/soufian/holbertonschool-web_back_end'
+2025-03-27 12:42:46.785 [warning] [Model][getRepositoryExact] Failed to get repository realpath for: "/home/soufian/holbertonschool-web_back_end". Error:Error: ENOENT: no such file or directory, realpath '/home/soufian/holbertonschool-web_back_end'

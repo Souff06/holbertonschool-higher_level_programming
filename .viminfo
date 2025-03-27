@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :x
-|2,0,1743073424,,"x"
+|2,0,1743075546,,"x"
 :c
 |2,0,1739972864,,"c"
 :x*
@@ -41,34 +41,46 @@
 # Registers:
 
 # File marks:
-'0  1  5  ~/holbertonschool-web_front_end/ES6_basic/README.md
-|4,48,1,5,1743073424,"~/holbertonschool-web_front_end/ES6_basic/README.md"
-'1  1  0  ~/holbertonschool-web_front_end/ES6_basic/package.json
-|4,49,1,0,1743073021,"~/holbertonschool-web_front_end/ES6_basic/package.json"
-'2  1  0  ~/holbertonschool-web_front_end/ES6_basic/package
-|4,50,1,0,1743072998,"~/holbertonschool-web_front_end/ES6_basic/package"
-'3  15  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
-|4,51,15,0,1743072579,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
-'4  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
-|4,52,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
-'5  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
-|4,53,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+'0  1  9  ~/holbertonschool-web_back_end/ES6_basic/README.md
+|4,48,1,9,1743075546,"~/holbertonschool-web_back_end/ES6_basic/README.md"
+'1  1  5  ~/holbertonschool-web_front_end/ES6_basic/README.md
+|4,49,1,5,1743073424,"~/holbertonschool-web_front_end/ES6_basic/README.md"
+'2  1  0  ~/holbertonschool-web_front_end/ES6_basic/package.json
+|4,50,1,0,1743073021,"~/holbertonschool-web_front_end/ES6_basic/package.json"
+'3  1  0  ~/holbertonschool-web_front_end/ES6_basic/package
+|4,51,1,0,1743072998,"~/holbertonschool-web_front_end/ES6_basic/package"
+'4  15  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,52,15,0,1743072579,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+'5  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,53,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
 '6  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
 |4,54,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
-'7  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
-|4,55,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
-'8  1  0  ~/holbertonschool-web_front_end/ES6_basic/babel.config.js
-|4,56,1,0,1743071317,"~/holbertonschool-web_front_end/ES6_basic/babel.config.js"
-'9  19  0  ~/holbertonschool-web_front_end/ES6_basic/package.json
-|4,57,19,0,1743071287,"~/holbertonschool-web_front_end/ES6_basic/package.json"
+'7  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,55,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+'8  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
+|4,56,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
+'9  1  0  ~/holbertonschool-web_front_end/ES6_basic/babel.config.js
+|4,57,1,0,1743071317,"~/holbertonschool-web_front_end/ES6_basic/babel.config.js"
 
 # Jumplist (newest first):
+-'  1  9  ~/holbertonschool-web_back_end/ES6_basic/README.md
+|4,39,1,9,1743075546,"~/holbertonschool-web_back_end/ES6_basic/README.md"
+-'  1  5  ~/holbertonschool-web_front_end/ES6_basic/README.md
+|4,39,1,5,1743073424,"~/holbertonschool-web_front_end/ES6_basic/README.md"
 -'  1  5  ~/holbertonschool-web_front_end/ES6_basic/README.md
 |4,39,1,5,1743073424,"~/holbertonschool-web_front_end/ES6_basic/README.md"
 -'  1  0  ~/holbertonschool-web_front_end/ES6_basic/package.json
 |4,39,1,0,1743073021,"~/holbertonschool-web_front_end/ES6_basic/package.json"
 -'  1  0  ~/holbertonschool-web_front_end/ES6_basic/package.json
 |4,39,1,0,1743073021,"~/holbertonschool-web_front_end/ES6_basic/package.json"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/package.json
+|4,39,1,0,1743073021,"~/holbertonschool-web_front_end/ES6_basic/package.json"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/package.json
+|4,39,1,0,1743073021,"~/holbertonschool-web_front_end/ES6_basic/package.json"
+-'  19  0  ~/holbertonschool-web_front_end/ES6_basic/package.json
+|4,39,19,0,1743073002,"~/holbertonschool-web_front_end/ES6_basic/package.json"
+-'  19  0  ~/holbertonschool-web_front_end/ES6_basic/package.json
+|4,39,19,0,1743073002,"~/holbertonschool-web_front_end/ES6_basic/package.json"
 -'  19  0  ~/holbertonschool-web_front_end/ES6_basic/package.json
 |4,39,19,0,1743073002,"~/holbertonschool-web_front_end/ES6_basic/package.json"
 -'  19  0  ~/holbertonschool-web_front_end/ES6_basic/package.json
@@ -81,6 +93,14 @@
 |4,39,1,0,1743072998,"~/holbertonschool-web_front_end/ES6_basic/package"
 -'  1  0  ~/holbertonschool-web_front_end/ES6_basic/package
 |4,39,1,0,1743072998,"~/holbertonschool-web_front_end/ES6_basic/package"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/package
+|4,39,1,0,1743072998,"~/holbertonschool-web_front_end/ES6_basic/package"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/package
+|4,39,1,0,1743072998,"~/holbertonschool-web_front_end/ES6_basic/package"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/package
+|4,39,1,0,1743072998,"~/holbertonschool-web_front_end/ES6_basic/package"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/package
+|4,39,1,0,1743072998,"~/holbertonschool-web_front_end/ES6_basic/package"
 -'  15  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
 |4,39,15,0,1743072579,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
 -'  15  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
@@ -97,6 +117,38 @@
 |4,39,15,0,1743072579,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
 -'  15  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
 |4,39,15,0,1743072579,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  15  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,15,0,1743072579,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  15  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,15,0,1743072579,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  15  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,15,0,1743072579,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  15  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,15,0,1743072579,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  15  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,15,0,1743072579,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  15  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,15,0,1743072579,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  15  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,15,0,1743072579,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  15  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,15,0,1743072579,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,1,0,1743072421,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,1,0,1743072421,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,1,0,1743072421,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,1,0,1743072421,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,1,0,1743072421,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,1,0,1743072421,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,1,0,1743072421,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,1,0,1743072421,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
 -'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
 |4,39,1,0,1743072421,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
 -'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
@@ -145,6 +197,38 @@
 |4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
 -'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
 |4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
 -'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
 |4,39,1,0,1743072334,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
 -'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
@@ -177,94 +261,17 @@
 |4,39,1,0,1743072334,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
 -'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
 |4,39,1,0,1743072334,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
--'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
-|4,39,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
--'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
-|4,39,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
--'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
-|4,39,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
--'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
-|4,39,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
--'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
-|4,39,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
--'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
-|4,39,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
--'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
-|4,39,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
--'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
-|4,39,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
--'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
-|4,39,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
--'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
-|4,39,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
--'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
-|4,39,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
--'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
-|4,39,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
--'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
-|4,39,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
--'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
-|4,39,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
--'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
-|4,39,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
--'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
-|4,39,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
--'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
-|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
--'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
-|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
--'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
-|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
--'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
-|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
--'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
-|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
--'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
-|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
--'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
-|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
--'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
-|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
--'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
-|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
--'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
-|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
--'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
-|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
--'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
-|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
--'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
-|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
--'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
-|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
--'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
-|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
--'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
-|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
--'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
-|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
--'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
-|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
--'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
-|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
--'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
-|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
--'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
-|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
--'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
-|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
--'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
-|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
--'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
-|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
--'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
-|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
--'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
-|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
--'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
-|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,1,0,1743072334,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
 
 # History of marks within files (newest to oldest):
+
+> ~/holbertonschool-web_back_end/ES6_basic/README.md
+	*	1743075541	0
+	"	1	9
+	^	1	10
+	.	1	10
+	+	1	10
 
 > ~/holbertonschool-web_front_end/ES6_basic/README.md
 	*	1743073423	0
@@ -1080,10 +1087,3 @@
 	.	2	18
 	+	1	11
 	+	2	18
-
-> ~/holbertonschool-shell/io_redirections_and_filters/19-AZ
-	*	1707999527	0
-	"	2	2
-	^	2	3
-	.	2	2
-	+	2	2

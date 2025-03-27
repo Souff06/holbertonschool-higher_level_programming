@@ -1,0 +1,13 @@
+2025-03-27 12:40:45.789 [info] 
+
+
+
+
+2025-03-27 12:40:45.832 [info] Extension host agent started.
+2025-03-27 12:40:46.251 [info] [127.0.0.1][504e6ba5][ManagementConnection] New connection established.
+2025-03-27 12:40:46.959 [info] [127.0.0.1][36f7484c][ExtensionHostConnection] New connection established.
+2025-03-27 12:40:46.979 [info] [127.0.0.1][36f7484c][ExtensionHostConnection] <59993> Launched Extension Host Process.
+2025-03-27 12:42:07.045 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2025-03-27 12:42:07.172 [warning] [File Watcher] Watcher shutdown because watched path got deleted (path: /home/soufian/holbertonschool-web_back_end)
+2025-03-27 12:42:27.839 [info] [127.0.0.1][504e6ba5][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-03-27 12:42:27.953 [info] [127.0.0.1][36f7484c][ExtensionHostConnection] <59993> Extension Host Process exited with code: 0, signal: null.
