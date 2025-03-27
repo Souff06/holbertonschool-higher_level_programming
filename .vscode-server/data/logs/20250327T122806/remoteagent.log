@@ -1,0 +1,11 @@
+2025-03-27 12:28:06.625 [info] 
+
+
+
+
+2025-03-27 12:28:06.651 [info] Extension host agent started.
+2025-03-27 12:28:06.985 [info] [127.0.0.1][942ef14a][ManagementConnection] New connection established.
+2025-03-27 12:28:07.647 [info] [127.0.0.1][9e380a9a][ExtensionHostConnection] New connection established.
+2025-03-27 12:28:07.708 [info] [127.0.0.1][9e380a9a][ExtensionHostConnection] <51005> Launched Extension Host Process.
+2025-03-27 12:28:19.104 [error] [File Watcher] Unexpected error: inotify_add_watch on '/home/soufian/.vscode-server/data/logs/20250318T144028/exthost2' failed: No such file or directory (EUNKNOWN) (path: /home/soufian)
+2025-03-27 12:28:19.105 [error] [File Watcher (universal)] inotify_add_watch on '/home/soufian/.vscode-server/data/logs/20250318T144028/exthost2' failed: No such file or directory
