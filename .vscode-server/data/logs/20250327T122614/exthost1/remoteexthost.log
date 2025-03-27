@@ -1,0 +1,16 @@
+2025-03-27 12:26:17.435 [info] Extension host with pid 48986 started
+2025-03-27 12:26:17.496 [info] Lock '/home/soufian/.vscode-server/data/User/workspaceStorage/81297a1046399a998693f0aecde550ae/vscode.lock': Lock acquired.
+2025-03-27 12:26:17.577 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-03-27 12:26:17.579 [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+2025-03-27 12:26:18.495 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2025-03-27 12:26:18.496 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2025-03-27 12:26:18.829 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-03-27 12:26:18.931 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-03-27 12:26:18.932 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-03-27 12:26:19.881 [info] Eager extensions activated
+2025-03-27 12:26:19.883 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-03-27 12:26:19.885 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-03-27 12:26:19.897 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2025-03-27 12:26:33.687 [info] Extension host terminating: received terminate message from renderer
+2025-03-27 12:26:33.688 [info] Lock '/home/soufian/.vscode-server/data/User/workspaceStorage/81297a1046399a998693f0aecde550ae/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+2025-03-27 12:26:33.747 [info] Extension host with pid 48986 exiting with code 0

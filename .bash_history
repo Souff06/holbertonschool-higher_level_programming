@@ -1,48 +1,3 @@
-gp
-cd tests/
-ga 0-add_integer.txt 
-gc 'tt'
-gp
-/bin/python3
-ls
-cd python-inheritance/
-ls
-clear
-ls
-./1-main.py 
-ls
-python3 -m doctest ./tests/1-my_list.txt
-clear
-python3 -m doctest ./tests/1-my_list.txt
-clear
-python3 -m doctest ./tests/1-my_list.txt
-clear
-python3 -m doctest ./tests/1-my_list.txt
-ga 1-my_list.py 
-gc 'tt'
-gp
-clear
-python3 -m doctest ./tests/1-my_list.txt
-ld
-ls
-python3 -m doctest ./tests/1-my_list.txt
-clear
-python3 -m doctest ./tests/1-my_list.txt
-clear
-ls
-cd
-ls
-cd holbertonschool-higher_level_programming/
-ls
-cd
-git clone https://github.com/Souff06/holbertonschool-higher_level_programming.git
-ls
-cd holbertonschool-higher_level_programming/
-ls
-cd python-test_driven_development/
-ls
-clear
-ls
 ga 2-matrix_divided.py 3-say_my_name.py 4-print_square.py 5-text_indentation.py 6-max_integer.py 
 gc 'gg'
 gp
@@ -1998,3 +1953,48 @@ ls
 cd ..
 clear
 ls
+vi 0-constants.js
+ls
+vi 0-main.js
+ls
+vi 0-constants.js
+npm run dev 0-main.js
+chmod +x 0-main.js 
+chmod +x 0-constants.js 
+npm run dev 0-main.js
+vi package
+vi package.json 
+npm run dev 0-main.js
+npm install --save-dev @babel/core @babel/cli @babel/preset-env @babel/node
+npm audit fix
+npm audit fix --force
+npm run dev 0-main.js
+ga 0-constants.js 
+gc 'gg'
+gp
+vi README.md
+ga README.md 
+gc 'readme'
+gp
+cd ..
+ls
+mkdir holbertonschool-web_back_end
+cd holbertonschool-web_front_end/
+ls
+mv ES6_basic/ /home/soufian/holbertonschool-web_back_end/
+ls
+cd ..
+cd holbertonschool-web_back_end/
+ls
+cd ES6_basic/
+ls
+ga 0-constants.js 
+gc 'gg'
+gp
+ga README.md 
+gc 'readme'
+gp
+ls
+curl -sL https://deb.nodesource.com/setup_20.x -o nodesource_setup.sh
+sudo bash nodesource_setup.sh
+sudo apt install nodejs -y
