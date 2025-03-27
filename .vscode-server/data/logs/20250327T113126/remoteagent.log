@@ -11,3 +11,4 @@
 2025-03-27 11:31:37.576 [error] [File Watcher (universal)] inotify_add_watch on '/home/soufian/.vscode-server/data/logs/20250312T224645/exthost1/vscode.github' failed: No such file or directory
 2025-03-27 12:06:02.728 [warning] [File Watcher] Watcher shutdown because watched path got deleted (path: /home/soufian/holbertonschool-web_front_end/ES6_basic)
 2025-03-27 12:06:03.533 [error] [File Watcher] Unexpected error stopping watcher: Unable to remove watcher: Invalid argument (path: /home/soufian/holbertonschool-web_front_end/ES6_basic)
+2025-03-27 12:24:44.104 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
