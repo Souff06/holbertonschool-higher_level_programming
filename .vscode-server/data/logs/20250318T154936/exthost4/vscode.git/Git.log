@@ -1,0 +1,54 @@
+2025-03-18 16:23:08.821 [info] [main] Log level: Info
+2025-03-18 16:23:08.821 [info] [main] Validating found git in: "git"
+2025-03-18 16:23:08.821 [info] [main] Using git "2.34.1" from "git"
+2025-03-18 16:23:08.821 [info] [Model][doInitialScan] Initial repository scan started
+2025-03-18 16:23:08.821 [info] > git rev-parse --show-toplevel [2ms]
+2025-03-18 16:23:08.821 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2025-03-18 16:23:08.821 [info] [Model][openRepository] Opened repository: /home/soufian
+2025-03-18 16:23:08.821 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-03-18 16:23:08.821 [info] > git config --get commit.template [65ms]
+2025-03-18 16:23:08.825 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-18 16:23:08.837 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-03-18 16:23:09.058 [info] > git status -z -uall [228ms] (cancelled)
+2025-03-18 16:23:10.083 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1029ms]
+2025-03-18 16:23:10.088 [info] > git fetch [1346ms]
+2025-03-18 16:23:10.111 [info] > git check-ignore -v -z --stdin [17ms]
+2025-03-18 16:23:10.113 [info] > git config --get --local branch.main.vscode-merge-base [26ms]
+2025-03-18 16:23:10.121 [info] > git config --get commit.template [60ms]
+2025-03-18 16:23:10.129 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [9ms]
+2025-03-18 16:23:10.139 [info] > git config --get commit.template [30ms]
+2025-03-18 16:23:10.146 [info] > git merge-base refs/heads/main refs/remotes/origin/main [9ms]
+2025-03-18 16:23:10.154 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2025-03-18 16:23:10.155 [info] > git diff --name-status -z --diff-filter=ADMR f0556e4dd25fc713b83c171ef78b6bd17a1c10c1...refs/remotes/origin/main [5ms]
+2025-03-18 16:23:10.156 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-03-18 16:23:10.169 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-18 16:23:10.329 [info] > git status -z -uall [167ms] (cancelled)
+2025-03-18 16:23:13.253 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [8ms]
+2025-03-18 16:23:13.791 [info] > git check-ignore -v -z --stdin [1ms]
+2025-03-18 16:23:16.756 [info] [Model][close] Repository: /home/soufian
+2025-03-18 16:24:27.374 [info] > git rev-parse --show-toplevel [13ms]
+2025-03-18 16:24:27.414 [info] > git rev-parse --git-dir --git-common-dir [36ms]
+2025-03-18 16:24:27.421 [info] [Model][openRepository] Opened repository: /home/soufian
+2025-03-18 16:24:27.431 [info] > git config --get commit.template [5ms]
+2025-03-18 16:24:27.433 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4ms]
+2025-03-18 16:24:27.445 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2025-03-18 16:24:27.964 [info] > git fetch [544ms]
+2025-03-18 16:24:27.984 [info] > git status -z -uall [546ms] (cancelled)
+2025-03-18 16:24:27.984 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [14ms]
+2025-03-18 16:24:27.990 [info] > git config --get commit.template [7ms]
+2025-03-18 16:24:27.991 [info] > git config --get commit.template [13ms]
+2025-03-18 16:24:27.992 [info] > git config --get --local branch.main.vscode-merge-base [4ms]
+2025-03-18 16:24:28.095 [info] > git check-ignore -v -z --stdin [2ms]
+2025-03-18 16:24:28.096 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [91ms]
+2025-03-18 16:24:28.096 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [95ms]
+2025-03-18 16:24:28.097 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [101ms]
+2025-03-18 16:24:28.122 [info] > git merge-base refs/heads/main refs/remotes/origin/main [21ms]
+2025-03-18 16:24:28.131 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [7ms]
+2025-03-18 16:24:28.132 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [15ms]
+2025-03-18 16:24:28.132 [info] > git merge-base refs/heads/main refs/remotes/origin/main [25ms]
+2025-03-18 16:24:28.140 [info] > git diff --name-status -z --diff-filter=ADMR f0556e4dd25fc713b83c171ef78b6bd17a1c10c1...refs/remotes/origin/main [13ms]
+2025-03-18 16:24:28.141 [info] > git diff --name-status -z --diff-filter=ADMR f0556e4dd25fc713b83c171ef78b6bd17a1c10c1...refs/remotes/origin/main [5ms]
+2025-03-18 16:24:28.692 [info] > git status -z -uall [580ms] (cancelled)
+2025-03-18 16:24:41.453 [info] > git check-ignore -v -z --stdin [2ms]
+2025-03-18 16:24:43.392 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [4ms]
+2025-03-18 16:24:53.585 [info] > git check-ignore -v -z --stdin [3ms]

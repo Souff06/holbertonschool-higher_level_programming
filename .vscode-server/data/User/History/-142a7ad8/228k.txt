@@ -1,0 +1,23 @@
+>>> add_integer = __import__('0-add_integer').add_integer
+
+>>> (add_integer(4, 0))
+4
+
+>>> (add_integer(4, 1))
+5
+
+>>> (add_integer(7, 1.2))
+8
+
+>>> (add_integer(3, 2))
+5
+
+>>> (add_integer(0, 3))
+3
+
+>>> (add_integer(4, "School"))
+
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "<stdin>", line 5, in add_integer
+TypeError: b must be an integer

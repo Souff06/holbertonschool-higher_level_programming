@@ -1,0 +1,19 @@
+2025-03-05 12:02:41.951 [info] 
+
+
+
+
+2025-03-05 12:02:41.980 [info] Extension host agent started.
+2025-03-05 12:02:42.378 [info] Deleted marked for removal extension from disk editorconfig.editorconfig /home/soufian/.vscode-server/extensions/editorconfig.editorconfig-0.17.0
+2025-03-05 12:02:42.379 [info] Deleted marked for removal extension from disk ms-vscode.cmake-tools /home/soufian/.vscode-server/extensions/ms-vscode.cmake-tools-1.19.52
+2025-03-05 12:02:42.380 [info] Deleted marked for removal extension from disk ms-vscode.cpptools-extension-pack /home/soufian/.vscode-server/extensions/ms-vscode.cpptools-extension-pack-1.3.0
+2025-03-05 12:02:42.384 [info] [127.0.0.1][f44c01ab][ManagementConnection] New connection established.
+2025-03-05 12:02:42.388 [info] Marked extension as removed editorconfig.editorconfig-0.17.0
+2025-03-05 12:02:42.388 [info] Marked extension as removed ms-vscode.cmake-tools-1.19.52
+2025-03-05 12:02:42.388 [info] Marked extension as removed ms-vscode.cpptools-extension-pack-1.3.0
+2025-03-05 12:02:42.879 [info] [127.0.0.1][c80016e5][ExtensionHostConnection] New connection established.
+2025-03-05 12:02:42.906 [info] [127.0.0.1][c80016e5][ExtensionHostConnection] <1284> Launched Extension Host Process.
+2025-03-05 12:02:52.861 [error] #1: https://main.vscode-cdn.net/extensions/marketplace.json - error GET getaddrinfo EAI_AGAIN main.vscode-cdn.net
+2025-03-05 12:02:54.246 [error] #2: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+2025-03-05 12:03:07.669 [error] #3: https://mobile.events.data.microsoft.com/OneCollector/1.0?cors=true&content-type=application/x-json-stream - error POST getaddrinfo EAI_AGAIN mobile.events.data.microsoft.com
+2025-03-05 12:03:42.243 [info] [127.0.0.1][f44c01ab][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.

@@ -1,0 +1,24 @@
+2025-03-18 15:49:36.416 [info] 
+
+
+
+
+2025-03-18 15:49:36.429 [info] Extension host agent started.
+2025-03-18 15:49:36.733 [info] [127.0.0.1][a0a0eebc][ManagementConnection] New connection established.
+2025-03-18 15:49:36.888 [info] [127.0.0.1][f0cf1f65][ExtensionHostConnection] New connection established.
+2025-03-18 15:49:36.920 [info] [127.0.0.1][f0cf1f65][ExtensionHostConnection] <632> Launched Extension Host Process.
+2025-03-18 15:50:23.165 [info] [127.0.0.1][a0a0eebc][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-03-18 15:50:23.205 [info] [127.0.0.1][f0cf1f65][ExtensionHostConnection] <632> Extension Host Process exited with code: 0, signal: null.
+2025-03-18 15:50:25.224 [info] [127.0.0.1][7148234b][ManagementConnection] New connection established.
+2025-03-18 15:50:25.563 [info] [127.0.0.1][04169106][ExtensionHostConnection] New connection established.
+2025-03-18 15:50:25.568 [info] [127.0.0.1][04169106][ExtensionHostConnection] <1233> Launched Extension Host Process.
+2025-03-18 16:22:50.732 [info] [127.0.0.1][7148234b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-03-18 16:22:50.810 [info] [127.0.0.1][04169106][ExtensionHostConnection] <1233> Extension Host Process exited with code: 0, signal: null.
+2025-03-18 16:22:52.728 [info] [127.0.0.1][131a3a69][ManagementConnection] New connection established.
+2025-03-18 16:22:52.913 [info] [127.0.0.1][35a15cbf][ExtensionHostConnection] New connection established.
+2025-03-18 16:22:52.917 [info] [127.0.0.1][35a15cbf][ExtensionHostConnection] <15876> Launched Extension Host Process.
+2025-03-18 16:23:05.405 [info] [127.0.0.1][131a3a69][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-03-18 16:23:05.444 [info] [127.0.0.1][35a15cbf][ExtensionHostConnection] <15876> Extension Host Process exited with code: 0, signal: null.
+2025-03-18 16:23:07.347 [info] [127.0.0.1][d1f8dcd1][ManagementConnection] New connection established.
+2025-03-18 16:23:07.631 [info] [127.0.0.1][250ff1a8][ExtensionHostConnection] New connection established.
+2025-03-18 16:23:07.636 [info] [127.0.0.1][250ff1a8][ExtensionHostConnection] <16069> Launched Extension Host Process.

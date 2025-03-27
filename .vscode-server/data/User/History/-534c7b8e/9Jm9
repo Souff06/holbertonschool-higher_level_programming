@@ -1,0 +1,55 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+#include <string.h>
+#include <sys/wait.h>
+
+#define MAX_COMMAND_LENGTH 100
+#define PROMPT "#cisfun$ "
+
+int main(void) {
+    char *line = NULL;
+    size_t len = 0;
+    ssize_t read;
+    pid_t pid;
+    int status;
+    int is_interactive = isatty(STDIN_FILENO);
+
+    while (1) {
+        if (is_interactive) {
+            printf(PROMPT);
+        }
+
+        read = getline(&line, &len, stdin);
+        if (read == -1) {
+            if (feof(stdin)) {
+                if (is_interactive) {
+                    printf("\n");
+                }
+                break;
+            }
+            perror("Error reading input");
+            continue;
+        }
+
+        if (line[read - 1] == '\n') {
+            line[read - 1] = '\0';
+        }
+        if (strlen(line) == 0) {
+            continue;
+        }
+
+        pid = fork();
+        if (pid == -1) {
+            perror("Erreur de fork");
+            continue;
+        } else if (pid == 0) {
+            char *argv[] = {line, NULL};
+            if (execve(line, argv, environ) == -1) {
+                fprintf(stderr, "%s: No such file or directory\n", line);
+                exit(EXIT_FAILURE);
+            }
+        } else {
+            waitpid(pid, &status, 0);
+        }
+    }

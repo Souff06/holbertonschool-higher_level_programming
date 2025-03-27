@@ -1,0 +1,19 @@
+2025-03-09 13:29:37.821 [info] (Client) Pylance async client (2025.3.1) started with python extension (2025.2.0)
+2025-03-09 13:29:37.824 [info] [Info  - 1:29:37 PM] (881) Server root directory: file:///home/soufian/.vscode-server/extensions/ms-python.vscode-pylance-2025.3.1/dist
+2025-03-09 13:29:37.825 [info] [Info  - 1:29:37 PM] (881) Pylance language server 2025.3.1 (pyright version 1.1.396, commit 3e2236a7) starting
+2025-03-09 13:29:37.837 [info] [Info  - 1:29:37 PM] (881) Starting service instance "holbertonschool-higher_level_programming"
+2025-03-09 13:29:37.893 [info] [Info  - 1:29:37 PM] (881) Setting environmentName for service "holbertonschool-higher_level_programming": "3.10.12 (global)"
+2025-03-09 13:29:37.894 [info] [Info  - 1:29:37 PM] (881) Setting pythonPath for service "holbertonschool-higher_level_programming": "/bin/python3"
+2025-03-09 13:29:37.894 [info] [Info  - 1:29:37 PM] (881) No include entries specified; assuming /home/soufian/holbertonschool-higher_level_programming
+2025-03-09 13:29:37.895 [info] [Info  - 1:29:37 PM] (881) Auto-excluding **/node_modules
+2025-03-09 13:29:37.895 [info] [Info  - 1:29:37 PM] (881) Auto-excluding **/__pycache__
+2025-03-09 13:29:37.895 [info] [Info  - 1:29:37 PM] (881) Auto-excluding **/.*
+2025-03-09 13:29:37.919 [info] [Info  - 1:29:37 PM] (881) Assuming Python version 3.10.12.final.0
+2025-03-09 13:29:38.195 [info] [Info  - 1:29:38 PM] (881) Found 179 source files
+2025-03-09 13:29:38.617 [info] [Info  - 1:29:38 PM] (881) Background analysis(1) root directory: file:///home/soufian/.vscode-server/extensions/ms-python.vscode-pylance-2025.3.1/dist
+2025-03-09 13:29:38.622 [info] [Info  - 1:29:38 PM] (881) Background analysis(1) started
+2025-03-09 13:29:38.946 [info] [Info  - 1:29:38 PM] (881) Indexer background runner(2) root directory: file:///home/soufian/.vscode-server/extensions/ms-python.vscode-pylance-2025.3.1/dist (index)
+2025-03-09 13:29:38.947 [info] [Info  - 1:29:38 PM] (881) Indexing(2) started
+2025-03-09 13:29:40.046 [info] [Info  - 1:29:40 PM] (881) scanned(2) 81 files over 1 exec env
+2025-03-09 13:29:41.736 [info] [Info  - 1:29:41 PM] (881) indexed(2) 81 files over 1 exec env
+2025-03-09 13:29:41.779 [info] [Info  - 1:29:41 PM] (881) Indexing finished(2).

@@ -1,0 +1,13 @@
+>>> from 1-my_list import MyList
+>>> my_list = MyList()
+>>> my_list.append(1)
+>>> my_list.append(4)
+>>> my_list.append(2)
+>>> my_list.append(3)
+>>> my_list.append(5)
+>>> print(my_list)  # Test d'affichage de la liste originale
+[1, 4, 2, 3, 5]
+>>> my_list.print_sorted()  # Test de tri sans modifier la liste originale
+[1, 2, 3, 4, 5]
+>>> print(my_list)  # Vérification que la liste originale n'a pas été modifiée
+[1, 4, 2, 3, 5]

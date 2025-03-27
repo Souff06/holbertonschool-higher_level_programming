@@ -1,0 +1,48 @@
+2025-03-15 23:15:18.218 [info] 
+
+
+
+
+2025-03-15 23:15:18.245 [info] Extension host agent started.
+2025-03-15 23:15:18.414 [info] [127.0.0.1][b38a8966][ManagementConnection] New connection established.
+2025-03-15 23:15:18.895 [info] [127.0.0.1][fa5feea2][ExtensionHostConnection] New connection established.
+2025-03-15 23:15:18.922 [info] [127.0.0.1][fa5feea2][ExtensionHostConnection] <626> Launched Extension Host Process.
+2025-03-15 23:15:22.619 [info] Getting Manifest... ms-python.vscode-pylance
+2025-03-15 23:15:22.984 [info] Installing extension: ms-python.vscode-pylance {"productVersion":{"version":"1.98.1","date":"2025-03-10T15:38:08.854Z"},"pinned":false,"operation":3,"isApplicationScoped":false,"donotVerifySignature":false,"context":{"clientTargetPlatform":"win32-x64"},"profileLocation":{"$mid":1,"fsPath":"/home/soufian/.vscode-server/extensions/extensions.json","external":"file:///home/soufian/.vscode-server/extensions/extensions.json","path":"/home/soufian/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2025-03-15 23:15:24.231 [info] Getting Manifest... ms-python.python
+2025-03-15 23:15:24.625 [info] Getting Manifest... ms-python.debugpy
+2025-03-15 23:15:28.130 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Internal Code: 0. Executed: true. Duration: 1461ms.
+2025-03-15 23:15:39.714 [info] Extracted extension to file:///home/soufian/.vscode-server/extensions/ms-python.vscode-pylance-2025.3.2: ms-python.vscode-pylance
+2025-03-15 23:15:40.453 [info] Renamed to /home/soufian/.vscode-server/extensions/ms-python.vscode-pylance-2025.3.2
+2025-03-15 23:15:40.485 [info] Marked extension as removed ms-python.vscode-pylance-2025.3.1
+2025-03-15 23:15:40.502 [info] Extension installed successfully: ms-python.vscode-pylance file:///home/soufian/.vscode-server/extensions/extensions.json
+2025-03-16 00:10:22.869 [info] [127.0.0.1][b38a8966][ManagementConnection] The client has reconnected.
+2025-03-16 00:10:25.578 [info] [127.0.0.1][fa5feea2][ExtensionHostConnection] The client has reconnected.
+2025-03-16 00:10:25.926 [info] [127.0.0.1][b38a8966][ManagementConnection] The client has reconnected.
+2025-03-16 12:26:05.109 [info] [127.0.0.1][fa5feea2][ExtensionHostConnection] The client has reconnected.
+2025-03-16 12:26:07.862 [info] [127.0.0.1][b38a8966][ManagementConnection] The client has reconnected.
+2025-03-16 14:37:13.996 [info] [127.0.0.1][fa5feea2][ExtensionHostConnection] The client has reconnected.
+2025-03-16 14:37:14.002 [info] [127.0.0.1][b38a8966][ManagementConnection] The client has reconnected.
+2025-03-16 14:47:33.832 [info] [127.0.0.1][b38a8966][ManagementConnection] The client has reconnected.
+2025-03-16 14:47:34.048 [info] [127.0.0.1][fa5feea2][ExtensionHostConnection] The client has reconnected.
+2025-03-16 15:09:43.110 [info] [127.0.0.1][fa5feea2][ExtensionHostConnection] The client has reconnected.
+2025-03-16 15:09:43.208 [info] [127.0.0.1][b38a8966][ManagementConnection] The client has reconnected.
+2025-03-16 15:09:46.859 [info] [127.0.0.1][b38a8966][ManagementConnection] The client has reconnected.
+2025-03-16 15:09:46.975 [info] [127.0.0.1][fa5feea2][ExtensionHostConnection] The client has reconnected.
+2025-03-16 17:02:10.329 [info] [127.0.0.1][b38a8966][ManagementConnection] The client has reconnected.
+2025-03-16 17:02:10.497 [info] [127.0.0.1][fa5feea2][ExtensionHostConnection] The client has reconnected.
+2025-03-16 17:18:29.001 [info] [127.0.0.1][fa5feea2][ExtensionHostConnection] The client has reconnected.
+2025-03-16 17:18:29.387 [info] [127.0.0.1][b38a8966][ManagementConnection] The client has reconnected.
+2025-03-16 18:48:32.974 [info] [127.0.0.1][b38a8966][ManagementConnection] The client has reconnected.
+2025-03-16 18:48:33.079 [info] [127.0.0.1][fa5feea2][ExtensionHostConnection] The client has reconnected.
+2025-03-16 18:48:37.385 [info] [127.0.0.1][fa5feea2][ExtensionHostConnection] The client has reconnected.
+2025-03-16 18:48:37.787 [info] [127.0.0.1][b38a8966][ManagementConnection] The client has reconnected.
+2025-03-16 20:28:26.473 [info] [127.0.0.1][b38a8966][ManagementConnection] The client has reconnected.
+2025-03-16 20:28:26.578 [info] [127.0.0.1][fa5feea2][ExtensionHostConnection] The client has reconnected.
+2025-03-16 20:49:57.708 [info] [127.0.0.1][fa5feea2][ExtensionHostConnection] The client has reconnected.
+2025-03-16 20:49:57.808 [info] [127.0.0.1][b38a8966][ManagementConnection] The client has reconnected.
+2025-03-16 20:56:11.463 [info] [127.0.0.1][fa5feea2][ExtensionHostConnection] The client has reconnected.
+2025-03-16 20:56:16.198 [info] [127.0.0.1][b38a8966][ManagementConnection] The client has reconnected.
+2025-03-16 21:44:24.616 [info] [127.0.0.1][b38a8966][ManagementConnection] The client has reconnected.
+2025-03-16 21:44:25.517 [info] [127.0.0.1][fa5feea2][ExtensionHostConnection] The client has reconnected.
+2025-03-16 21:44:25.861 [info] [127.0.0.1][b38a8966][ManagementConnection] The client has reconnected.

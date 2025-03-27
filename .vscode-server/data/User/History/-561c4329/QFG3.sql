@@ -1,0 +1,1 @@
+-- create user and database and give select privilege.

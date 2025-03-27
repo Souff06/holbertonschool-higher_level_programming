@@ -1,0 +1,11 @@
+[user]
+	email = soufianmghirat@hotmail.com
+	name = Souf
+[credential]
+	helper = cache --timeout=360000
+[pull]
+	rebase = true
+	ff = only
+[safe]
+	directory = /tmp
+	directory = /tmp

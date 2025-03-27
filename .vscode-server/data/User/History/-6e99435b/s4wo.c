@@ -1,0 +1,54 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <unistd.h>
+#include <string.h>
+#include <sys/wait.h>
+#include "shell.h"
+/**
+ * read_input - Function that read the input line
+ * entred by the user
+ * @av: the string to read
+ * @env: environment variable
+ *
+ */
+
+void read_input() {
+    char input[4096];
+    pid_t pid;
+    int status;
+    char *trimmed_input, *end;
+
+    while (1) {
+        if (isatty(STDIN_FILENO))
+            printf("cisfun$ ");
+
+        if (fgets(input, sizeof(input), stdin) == NULL) {
+            printf("Error reading input\n");
+            exit(EXIT_FAILURE);
+        }
+
+        trimmed_input = input;
+        while (*trimmed_input == ' ')
+            trimmed_input++;
+        end = trimmed_input + strlen(trimmed_input) - 1;
+        while (end > trimmed_input && *end == ' ')
+            end--;
+        *(end + 1) = '\0';
+
+        pid = fork();
+        if (pid == -1) {
+            perror("fork");
+            exit(EXIT_FAILURE);
+        }
+
+        if (pid == 0) {
+            execlp("sh", "sh", "-c", trimmed_input, NULL);
+            perror("execlp");
+            exit(EXIT_FAILURE);
+        } else {
+            waitpid(pid, &status, 0);
+        }
+    }
+}
+
+

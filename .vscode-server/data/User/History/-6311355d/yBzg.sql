@@ -1,0 +1,1 @@
+-- create table with name not null.

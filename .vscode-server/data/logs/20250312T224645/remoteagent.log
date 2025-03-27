@@ -1,0 +1,15 @@
+2025-03-12 22:46:45.173 [info] 
+
+
+
+
+2025-03-12 22:46:45.195 [info] Extension host agent started.
+2025-03-12 22:46:45.369 [info] [127.0.0.1][6ea752a2][ManagementConnection] New connection established.
+2025-03-12 22:46:45.389 [info] Deleted marked for removal extension from disk editorconfig.editorconfig /home/soufian/.vscode-server/extensions/editorconfig.editorconfig-0.17.1
+2025-03-12 22:46:45.390 [info] Deleted marked for removal extension from disk ms-python.debugpy /home/soufian/.vscode-server/extensions/ms-python.debugpy-2025.4.0-linux-x64
+2025-03-12 22:46:45.405 [info] Marked extension as removed editorconfig.editorconfig-0.17.1
+2025-03-12 22:46:45.406 [info] Marked extension as removed ms-python.debugpy-2025.4.0
+2025-03-12 22:46:45.733 [info] [127.0.0.1][ca29cc17][ExtensionHostConnection] New connection established.
+2025-03-12 22:46:45.746 [info] [127.0.0.1][ca29cc17][ExtensionHostConnection] <573> Launched Extension Host Process.
+2025-03-13 03:03:16.125 [info] [127.0.0.1][6ea752a2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-03-13 03:03:16.291 [info] [127.0.0.1][ca29cc17][ExtensionHostConnection] <573> Extension Host Process exited with code: 0, signal: null.

@@ -1,0 +1,1 @@
+-- create table with id default 1 and unique.
