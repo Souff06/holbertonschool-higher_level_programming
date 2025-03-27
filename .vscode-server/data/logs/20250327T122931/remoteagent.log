@@ -7,3 +7,5 @@
 2025-03-27 12:29:31.516 [info] [127.0.0.1][138acb08][ManagementConnection] New connection established.
 2025-03-27 12:29:31.984 [info] [127.0.0.1][8568d27b][ExtensionHostConnection] New connection established.
 2025-03-27 12:29:32.016 [info] [127.0.0.1][8568d27b][ExtensionHostConnection] <52955> Launched Extension Host Process.
+2025-03-27 12:29:41.503 [error] [File Watcher] Unexpected error: inotify_add_watch on '/home/soufian/.vscode-server/data/logs/20250318T154936/exthost4/vscode.git' failed: No such file or directory (EUNKNOWN) (path: /home/soufian)
+2025-03-27 12:29:41.503 [error] [File Watcher (universal)] inotify_add_watch on '/home/soufian/.vscode-server/data/logs/20250318T154936/exthost4/vscode.git' failed: No such file or directory
