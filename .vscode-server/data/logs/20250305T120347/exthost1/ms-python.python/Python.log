@@ -1,9 +1,0 @@
-2025-03-05 12:03:55.301 [info] Experiment 'pythonRecommendTensorboardExt' is active
-2025-03-05 12:03:55.302 [info] Experiment 'pythonTerminalEnvVarActivation' is active
-2025-03-05 12:03:55.302 [info] Experiment 'pythonTestAdapter' is active
-2025-03-05 12:03:55.302 [warning] Dir "/home/soufian/holbertonschool-higher_level_programming/.pixi/envs" is not watchable (directory does not exist)
-2025-03-05 12:03:55.623 [info] > pyenv which python
-2025-03-05 12:03:55.623 [info] cwd: .
-2025-03-05 12:03:56.791 [info] > /usr/bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2025.0.0-linux-x64/python_files/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2025.0.0-linux-x64/python_files/interpreterInfo.py
-2025-03-05 12:03:56.902 [info] Python interpreter path: /usr/bin/python3
-2025-03-05 12:03:57.947 [info] Starting Pylance language server.

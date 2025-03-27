@@ -1,0 +1,83 @@
+2025-03-23 16:39:46.463 [info] [main] Log level: Info
+2025-03-23 16:39:46.463 [info] [main] Validating found git in: "git"
+2025-03-23 16:39:46.463 [info] [main] Using git "2.34.1" from "git"
+2025-03-23 16:39:46.463 [info] [Model][doInitialScan] Initial repository scan started
+2025-03-23 16:39:46.463 [info] > git rev-parse --show-toplevel [15ms]
+2025-03-23 16:39:46.463 [info] > git rev-parse --git-dir --git-common-dir [8ms]
+2025-03-23 16:39:46.463 [info] [Model][openRepository] Opened repository: /home/soufian
+2025-03-23 16:39:46.463 [info] > git rev-parse --show-toplevel [225ms]
+2025-03-23 16:39:46.463 [info] fatal: this operation must be run in a work tree
+2025-03-23 16:39:46.463 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-03-23 16:39:46.463 [info] > git config --get commit.template [233ms]
+2025-03-23 16:39:46.478 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [11ms]
+2025-03-23 16:39:46.482 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/soufian/.git/refs/remotes/origin/main'
+2025-03-23 16:39:46.484 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-03-23 16:39:46.500 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2025-03-23 16:39:46.864 [info] > git check-ignore -v -z --stdin [51ms]
+2025-03-23 16:39:46.866 [info] > git show --textconv :.git/COMMIT_EDITMSG [46ms]
+2025-03-23 16:39:46.866 [info] > git ls-files --stage -- .git/COMMIT_EDITMSG [42ms]
+2025-03-23 16:39:46.874 [info] > git hash-object -t tree /dev/null [5ms]
+2025-03-23 16:39:46.875 [warning] [GitFileSystemProvider][stat] File not found - git:/home/soufian/.git/COMMIT_EDITMSG.git?%7B%22path%22%3A%22%2Fhome%2Fsoufian%2F.git%2FCOMMIT_EDITMSG%22%2C%22ref%22%3A%22%22%7D
+2025-03-23 16:39:46.879 [info] > git hash-object -t tree /dev/null [7ms]
+2025-03-23 16:39:46.879 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/soufian/.git/COMMIT_EDITMSG.git?%7B%22path%22%3A%22%2Fhome%2Fsoufian%2F.git%2FCOMMIT_EDITMSG%22%2C%22ref%22%3A%22%22%7D
+2025-03-23 16:39:47.031 [info] > git status -z -uall [542ms] (cancelled)
+2025-03-23 16:39:48.115 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1090ms]
+2025-03-23 16:39:48.148 [info] > git config --get --local branch.main.vscode-merge-base [28ms]
+2025-03-23 16:39:48.153 [info] > git config --get commit.template [52ms]
+2025-03-23 16:39:48.155 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [2ms]
+2025-03-23 16:39:48.167 [info] > git merge-base refs/heads/main refs/remotes/origin/main [7ms]
+2025-03-23 16:39:48.173 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2025-03-23 16:39:48.176 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/soufian/.git/refs/remotes/origin/main'
+2025-03-23 16:39:48.176 [info] > git diff --name-status -z --diff-filter=ADMR f0556e4dd25fc713b83c171ef78b6bd17a1c10c1...refs/remotes/origin/main [4ms]
+2025-03-23 16:39:48.178 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-03-23 16:39:48.184 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-23 16:39:48.369 [info] > git status -z -uall [189ms] (cancelled)
+2025-03-23 16:39:51.857 [info] > git fetch [502ms]
+2025-03-23 16:39:51.865 [info] > git config --get commit.template [4ms]
+2025-03-23 16:39:51.865 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-23 16:39:51.868 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/soufian/.git/refs/remotes/origin/main'
+2025-03-23 16:39:51.869 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-03-23 16:39:51.877 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-23 16:39:52.068 [info] > git status -z -uall [197ms] (cancelled)
+2025-03-23 16:42:52.542 [info] > git fetch [472ms]
+2025-03-23 16:42:52.550 [info] > git config --get commit.template [4ms]
+2025-03-23 16:42:52.551 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-23 16:42:52.554 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/soufian/.git/refs/remotes/origin/main'
+2025-03-23 16:42:52.555 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-03-23 16:42:52.564 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-23 16:42:52.771 [info] > git status -z -uall [213ms] (cancelled)
+2025-03-23 16:45:53.295 [info] > git fetch [519ms]
+2025-03-23 16:45:53.305 [info] > git config --get commit.template [5ms]
+2025-03-23 16:45:53.306 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-23 16:45:53.309 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/soufian/.git/refs/remotes/origin/main'
+2025-03-23 16:45:53.310 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-03-23 16:45:53.323 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-03-23 16:45:53.542 [info] > git status -z -uall [228ms] (cancelled)
+2025-03-23 16:48:54.070 [info] > git fetch [525ms]
+2025-03-23 16:48:54.079 [info] > git config --get commit.template [4ms]
+2025-03-23 16:48:54.080 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-03-23 16:48:54.083 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/soufian/.git/refs/remotes/origin/main'
+2025-03-23 16:48:54.084 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-03-23 16:48:54.094 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-03-23 16:48:54.304 [info] > git status -z -uall [217ms] (cancelled)
+2025-03-23 16:51:54.920 [info] > git fetch [612ms]
+2025-03-23 16:51:54.930 [info] > git config --get commit.template [4ms]
+2025-03-23 16:51:54.931 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-03-23 16:51:54.934 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/soufian/.git/refs/remotes/origin/main'
+2025-03-23 16:51:54.936 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-03-23 16:51:54.948 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-03-23 16:51:55.870 [info] > git status -z -uall [931ms] (cancelled)
+2025-03-23 16:54:56.387 [info] > git fetch [514ms]
+2025-03-23 16:54:56.395 [info] > git config --get commit.template [4ms]
+2025-03-23 16:54:56.396 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-03-23 16:54:56.400 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/soufian/.git/refs/remotes/origin/main'
+2025-03-23 16:54:56.401 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-03-23 16:54:56.410 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-23 16:54:56.619 [info] > git status -z -uall [215ms] (cancelled)
+2025-03-23 16:57:57.110 [info] > git fetch [488ms]
+2025-03-23 16:57:57.120 [info] > git config --get commit.template [3ms]
+2025-03-23 16:57:57.120 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-03-23 16:57:57.124 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/soufian/.git/refs/remotes/origin/main'
+2025-03-23 16:57:57.125 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-03-23 16:57:57.134 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-23 16:57:57.334 [info] > git status -z -uall [206ms] (cancelled)

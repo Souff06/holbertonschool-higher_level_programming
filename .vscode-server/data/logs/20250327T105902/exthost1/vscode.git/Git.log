@@ -1,0 +1,72 @@
+2025-03-27 10:59:11.386 [info] [main] Log level: Info
+2025-03-27 10:59:11.387 [info] [main] Validating found git in: "git"
+2025-03-27 10:59:11.387 [info] [main] Using git "2.34.1" from "git"
+2025-03-27 10:59:11.387 [info] [Model][doInitialScan] Initial repository scan started
+2025-03-27 10:59:11.387 [info] > git rev-parse --show-toplevel [44ms]
+2025-03-27 10:59:11.463 [info] > git rev-parse --git-dir --git-common-dir [78ms]
+2025-03-27 10:59:11.517 [info] [Model][openRepository] Opened repository: /home/soufian
+2025-03-27 10:59:12.121 [info] > git rev-parse --show-toplevel [573ms]
+2025-03-27 10:59:12.122 [info] fatal: this operation must be run in a work tree
+2025-03-27 10:59:12.144 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-03-27 10:59:12.151 [info] > git config --get commit.template [613ms]
+2025-03-27 10:59:12.226 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [47ms]
+2025-03-27 10:59:12.241 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/soufian/.git/refs/remotes/origin/main'
+2025-03-27 10:59:12.249 [info] > git rev-parse refs/remotes/origin/main [9ms]
+2025-03-27 10:59:12.297 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [13ms]
+2025-03-27 10:59:12.827 [info] > git check-ignore -v -z --stdin [101ms]
+2025-03-27 10:59:12.831 [info] > git show --textconv :.git/COMMIT_EDITMSG [57ms]
+2025-03-27 10:59:12.832 [info] > git ls-files --stage -- .git/COMMIT_EDITMSG [48ms]
+2025-03-27 10:59:12.863 [info] > git hash-object -t tree /dev/null [13ms]
+2025-03-27 10:59:12.863 [warning] [GitFileSystemProvider][stat] File not found - git:/home/soufian/.git/COMMIT_EDITMSG.git?%7B%22path%22%3A%22%2Fhome%2Fsoufian%2F.git%2FCOMMIT_EDITMSG%22%2C%22ref%22%3A%22%22%7D
+2025-03-27 10:59:12.876 [info] > git hash-object -t tree /dev/null [17ms]
+2025-03-27 10:59:12.876 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/soufian/.git/COMMIT_EDITMSG.git?%7B%22path%22%3A%22%2Fhome%2Fsoufian%2F.git%2FCOMMIT_EDITMSG%22%2C%22ref%22%3A%22%22%7D
+2025-03-27 10:59:14.066 [info] > git status -z -uall [1802ms] (cancelled)
+2025-03-27 10:59:18.276 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [4219ms]
+2025-03-27 10:59:18.398 [info] > git config --get --local branch.main.vscode-merge-base [113ms]
+2025-03-27 10:59:18.413 [info] > git config --get commit.template [168ms]
+2025-03-27 10:59:18.431 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [20ms]
+2025-03-27 10:59:18.628 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [203ms]
+2025-03-27 10:59:18.631 [info] > git merge-base refs/heads/main refs/remotes/origin/main [177ms]
+2025-03-27 10:59:18.651 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/soufian/.git/refs/remotes/origin/main'
+2025-03-27 10:59:18.653 [info] > git diff --name-status -z --diff-filter=ADMR f0556e4dd25fc713b83c171ef78b6bd17a1c10c1...refs/remotes/origin/main [11ms]
+2025-03-27 10:59:18.658 [info] > git rev-parse refs/remotes/origin/main [7ms]
+2025-03-27 10:59:18.695 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [21ms]
+2025-03-27 10:59:22.260 [info] > git status -z -uall [3595ms] (cancelled)
+2025-03-27 10:59:22.260 [info] > git fetch [2617ms]
+2025-03-27 10:59:22.422 [info] > git config --get commit.template [50ms]
+2025-03-27 10:59:22.447 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [15ms]
+2025-03-27 10:59:22.457 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/soufian/.git/refs/remotes/origin/main'
+2025-03-27 10:59:22.463 [info] > git rev-parse refs/remotes/origin/main [6ms]
+2025-03-27 10:59:22.488 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2025-03-27 10:59:24.836 [info] > git status -z -uall [2364ms] (cancelled)
+2025-03-27 11:00:19.946 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [48ms]
+2025-03-27 11:00:20.562 [info] > git check-ignore -v -z --stdin [23ms]
+2025-03-27 11:00:32.211 [info] > git check-ignore -v -z --stdin [59ms]
+2025-03-27 11:11:38.649 [info] > git fetch [876ms]
+2025-03-27 11:11:38.662 [info] > git config --get commit.template [5ms]
+2025-03-27 11:11:38.663 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-03-27 11:11:38.667 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/soufian/.git/refs/remotes/origin/main'
+2025-03-27 11:11:38.669 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-03-27 11:11:38.686 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2025-03-27 11:11:41.980 [info] > git status -z -uall [3306ms] (cancelled)
+2025-03-27 11:23:23.795 [info] > git fetch [755ms]
+2025-03-27 11:23:23.807 [info] > git config --get commit.template [4ms]
+2025-03-27 11:23:23.808 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-27 11:23:23.812 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/soufian/.git/refs/remotes/origin/main'
+2025-03-27 11:23:23.814 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2025-03-27 11:23:23.826 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2025-03-27 11:23:25.013 [info] > git status -z -uall [1195ms] (cancelled)
+2025-03-27 11:26:25.480 [info] > git fetch [465ms]
+2025-03-27 11:26:25.491 [info] > git config --get commit.template [4ms]
+2025-03-27 11:26:25.492 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-03-27 11:26:25.497 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/soufian/.git/refs/remotes/origin/main'
+2025-03-27 11:26:25.498 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-03-27 11:26:25.511 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2025-03-27 11:26:25.818 [info] > git status -z -uall [316ms] (cancelled)
+2025-03-27 11:29:26.267 [info] > git fetch [445ms]
+2025-03-27 11:29:26.273 [info] > git config --get commit.template [1ms]
+2025-03-27 11:29:26.281 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-27 11:29:26.287 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/soufian/.git/refs/remotes/origin/main'
+2025-03-27 11:29:26.288 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-03-27 11:29:26.299 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-27 11:29:28.624 [info] > git status -z -uall [2332ms] (cancelled)

@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :x
-|2,0,1741779157,,"x"
+|2,0,1743073424,,"x"
 :c
 |2,0,1739972864,,"c"
 :x*
@@ -41,230 +41,279 @@
 # Registers:
 
 # File marks:
-'0  1  15  ~/holbertonschool-higher_level_programming/SQL_introduction/README.md
-|4,48,1,15,1741779157,"~/holbertonschool-higher_level_programming/SQL_introduction/README.md"
-'1  1  15  ~/holbertonschool-higher_level_programming/README.md
-|4,49,1,15,1741778769,"~/holbertonschool-higher_level_programming/README.md"
-'2  25  19  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,50,25,19,1741134001,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
-'3  47  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,51,47,15,1741133975,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
-'4  46  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,52,46,15,1741133975,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
-'5  47  0  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,53,47,0,1741133944,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
-'6  46  0  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,54,46,0,1741133944,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
-'7  47  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,55,47,15,1741133925,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
-'8  47  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,56,47,15,1741133925,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
-'9  46  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,57,46,15,1741133925,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
+'0  1  5  ~/holbertonschool-web_front_end/ES6_basic/README.md
+|4,48,1,5,1743073424,"~/holbertonschool-web_front_end/ES6_basic/README.md"
+'1  1  0  ~/holbertonschool-web_front_end/ES6_basic/package.json
+|4,49,1,0,1743073021,"~/holbertonschool-web_front_end/ES6_basic/package.json"
+'2  1  0  ~/holbertonschool-web_front_end/ES6_basic/package
+|4,50,1,0,1743072998,"~/holbertonschool-web_front_end/ES6_basic/package"
+'3  15  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,51,15,0,1743072579,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+'4  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,52,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+'5  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,53,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+'6  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,54,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+'7  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
+|4,55,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
+'8  1  0  ~/holbertonschool-web_front_end/ES6_basic/babel.config.js
+|4,56,1,0,1743071317,"~/holbertonschool-web_front_end/ES6_basic/babel.config.js"
+'9  19  0  ~/holbertonschool-web_front_end/ES6_basic/package.json
+|4,57,19,0,1743071287,"~/holbertonschool-web_front_end/ES6_basic/package.json"
 
 # Jumplist (newest first):
--'  1  15  ~/holbertonschool-higher_level_programming/SQL_introduction/README.md
-|4,39,1,15,1741779157,"~/holbertonschool-higher_level_programming/SQL_introduction/README.md"
--'  1  15  ~/holbertonschool-higher_level_programming/README.md
-|4,39,1,15,1741778769,"~/holbertonschool-higher_level_programming/README.md"
--'  1  15  ~/holbertonschool-higher_level_programming/README.md
-|4,39,1,15,1741778769,"~/holbertonschool-higher_level_programming/README.md"
--'  25  19  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,25,19,1741134001,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  25  19  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,25,19,1741134001,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  25  19  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,25,19,1741134001,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  25  19  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,25,19,1741134001,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  47  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,47,15,1741133983,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  47  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,47,15,1741133983,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  47  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,47,15,1741133983,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  47  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,47,15,1741133983,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  46  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,46,15,1741133975,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  46  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,46,15,1741133975,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  46  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,46,15,1741133975,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  46  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,46,15,1741133975,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  46  0  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,46,0,1741133944,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  46  0  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,46,0,1741133944,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  46  0  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,46,0,1741133944,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  46  0  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,46,0,1741133944,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  46  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,46,15,1741133934,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  45  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,45,15,1741133934,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  46  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,46,15,1741133934,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  45  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,45,15,1741133934,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  46  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,46,15,1741133934,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  45  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,45,15,1741133934,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  46  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,46,15,1741133934,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  45  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,45,15,1741133934,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  45  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,45,15,1741133925,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  45  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,45,15,1741133925,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  45  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,45,15,1741133925,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  45  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,45,15,1741133925,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  45  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,45,15,1741133841,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  45  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,45,15,1741133841,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  44  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,44,15,1741133841,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  44  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,44,15,1741133841,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  45  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,45,15,1741133841,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  45  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,45,15,1741133841,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  44  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,44,15,1741133841,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  44  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,44,15,1741133841,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  45  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,45,15,1741133841,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  45  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,45,15,1741133841,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  44  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,44,15,1741133841,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  44  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,44,15,1741133841,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  45  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,45,15,1741133841,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  45  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,45,15,1741133841,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  44  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,44,15,1741133841,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  44  15  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,44,15,1741133841,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  1  0  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,1,0,1741133834,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  1  0  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,1,0,1741133834,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  1  0  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,1,0,1741133834,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  1  0  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,1,0,1741133834,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  1  0  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,1,0,1741133834,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  1  0  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,1,0,1741133834,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  1  0  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,1,0,1741133834,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  1  0  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,1,0,1741133834,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  1  0  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,1,0,1741133834,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  1  0  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,1,0,1741133834,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  1  0  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,1,0,1741133834,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  1  0  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,1,0,1741133834,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  1  0  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,1,0,1741133834,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  1  0  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,1,0,1741133834,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  1  0  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,1,0,1741133834,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  1  0  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,1,0,1741133834,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  1  0  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,1,0,1741133834,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  1  0  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,1,0,1741133834,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  1  0  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,1,0,1741133834,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  1  0  ~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py
-|4,39,1,0,1741133834,"~/holbertonschool-higher_level_programming/restful-api/task_03_http_server.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
--'  47  61  ~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py
-|4,39,47,61,1741132945,"~/holbertonschool-higher_level_programming/restful-api/task_02_requests.py"
+-'  1  5  ~/holbertonschool-web_front_end/ES6_basic/README.md
+|4,39,1,5,1743073424,"~/holbertonschool-web_front_end/ES6_basic/README.md"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/package.json
+|4,39,1,0,1743073021,"~/holbertonschool-web_front_end/ES6_basic/package.json"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/package.json
+|4,39,1,0,1743073021,"~/holbertonschool-web_front_end/ES6_basic/package.json"
+-'  19  0  ~/holbertonschool-web_front_end/ES6_basic/package.json
+|4,39,19,0,1743073002,"~/holbertonschool-web_front_end/ES6_basic/package.json"
+-'  19  0  ~/holbertonschool-web_front_end/ES6_basic/package.json
+|4,39,19,0,1743073002,"~/holbertonschool-web_front_end/ES6_basic/package.json"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/package
+|4,39,1,0,1743072998,"~/holbertonschool-web_front_end/ES6_basic/package"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/package
+|4,39,1,0,1743072998,"~/holbertonschool-web_front_end/ES6_basic/package"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/package
+|4,39,1,0,1743072998,"~/holbertonschool-web_front_end/ES6_basic/package"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/package
+|4,39,1,0,1743072998,"~/holbertonschool-web_front_end/ES6_basic/package"
+-'  15  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,15,0,1743072579,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  15  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,15,0,1743072579,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  15  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,15,0,1743072579,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  15  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,15,0,1743072579,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  15  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,15,0,1743072579,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  15  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,15,0,1743072579,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  15  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,15,0,1743072579,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  15  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,15,0,1743072579,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,1,0,1743072421,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,1,0,1743072421,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,1,0,1743072421,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,1,0,1743072421,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,1,0,1743072421,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,1,0,1743072421,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,1,0,1743072421,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,1,0,1743072421,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  4  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,4,0,1743072345,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,1,0,1743072334,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,1,0,1743072334,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,1,0,1743072334,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,1,0,1743072334,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,1,0,1743072334,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,1,0,1743072334,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,1,0,1743072334,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,1,0,1743072334,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,1,0,1743072334,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,1,0,1743072334,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,1,0,1743072334,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,1,0,1743072334,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,1,0,1743072334,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,1,0,1743072334,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,1,0,1743072334,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+|4,39,1,0,1743072334,"~/holbertonschool-web_front_end/ES6_basic/0-main.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  1  0  ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+|4,39,1,0,1743071572,"~/holbertonschool-web_front_end/ES6_basic/0-constants.js"
+-'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
+|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
+-'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
+|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
+-'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
+|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
+-'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
+|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
+-'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
+|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
+-'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
+|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
+-'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
+|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
+-'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
+|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
+-'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
+|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
+-'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
+|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
+-'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
+|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
+-'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
+|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
+-'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
+|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
+-'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
+|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
+-'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
+|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
+-'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
+|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
+-'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
+|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
+-'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
+|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
+-'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
+|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
+-'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
+|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
+-'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
+|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
+-'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
+|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
+-'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
+|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
+-'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
+|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
+-'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
+|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
+-'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
+|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
+-'  35  1  ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
+|4,39,35,1,1743071347,"~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js"
 
 # History of marks within files (newest to oldest):
+
+> ~/holbertonschool-web_front_end/ES6_basic/README.md
+	*	1743073423	0
+	"	1	5
+	^	1	6
+	.	1	5
+	+	1	5
+
+> ~/holbertonschool-web_front_end/ES6_basic/package.json
+	*	1743073020	0
+	"	1	0
+	^	1	0
+	.	2	0
+	+	19	0
+	+	1	0
+	+	2	0
+
+> ~/holbertonschool-web_front_end/ES6_basic/package
+	*	1743072996	0
+	"	1	0
+
+> ~/holbertonschool-web_front_end/ES6_basic/0-constants.js
+	*	1743072578	0
+	"	15	0
+	^	15	1
+	.	15	0
+	+	15	0
+
+> ~/holbertonschool-web_front_end/ES6_basic/0-main.js
+	*	1743072344	0
+	"	4	0
+	^	4	0
+	.	3	44
+	+	3	44
+
+> ~/holbertonschool-web_front_end/ES6_basic/.eslintrc.js
+	*	1743071345	0
+	"	35	1
+	^	35	2
+	.	35	1
+	+	35	1
+
+> ~/holbertonschool-web_front_end/ES6_basic/babel.config.js
+	*	1743071315	0
+	"	1	0
+	^	1	0
+	.	2	0
+	+	12	1
+	+	2	0
 
 > ~/holbertonschool-higher_level_programming/SQL_introduction/README.md
 	*	1741779156	0
@@ -1038,58 +1087,3 @@
 	^	2	3
 	.	2	2
 	+	2	2
-
-> ~/holbertonschool-shell/io_redirections_and_filters/18-letteronly
-	*	1707998977	0
-	"	2	36
-	^	2	37
-	.	2	15
-	+	1	11
-	+	2	15
-
-> ~/holbertonschool-shell/io_redirections_and_filters/17-hidethisword
-	*	1707997714	0
-	"	2	0
-	^	2	0
-	.	1	11
-	+	1	11
-
-> ~/holbertonschool-shell/io_redirections_and_filters/16-whatsnext
-	*	1707996630	0
-	"	2	35
-	^	2	36
-	.	2	35
-	+	1	11
-	+	2	35
-
-> ~/holbertonschool-shell/io_redirections_and_filters/15-countthatword
-	*	1707994889	0
-	"	2	50
-	^	2	51
-	.	2	50
-	+	1	11
-	+	2	50
-
-> ~/holbertonschool-shell/io_redirections_and_filters/14-findthatword
-	*	1707993280	0
-	"	2	54
-	^	2	55
-	.	2	55
-	+	1	11
-	+	2	55
-
-> ~/holbertonschool-shell/io_redirections_and_filters/13-unique
-	*	1707924622	0
-	"	2	23
-	^	2	24
-	.	2	7
-	+	1	11
-	+	2	7
-
-> ~/holbertonschool-shell/io_redirections_and_filters/12-newest_files
-	*	1707923358	0
-	"	2	12
-	^	2	13
-	.	2	12
-	+	1	11
-	+	2	12

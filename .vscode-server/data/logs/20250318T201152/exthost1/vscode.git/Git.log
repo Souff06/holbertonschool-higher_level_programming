@@ -1,0 +1,129 @@
+2025-03-18 20:11:55.532 [info] [main] Log level: Info
+2025-03-18 20:11:55.532 [info] [main] Validating found git in: "git"
+2025-03-18 20:11:55.532 [info] [main] Using git "2.34.1" from "git"
+2025-03-18 20:11:55.532 [info] [Model][doInitialScan] Initial repository scan started
+2025-03-18 20:11:55.533 [info] > git rev-parse --show-toplevel [7ms]
+2025-03-18 20:11:55.630 [info] > git rev-parse --git-dir --git-common-dir [104ms]
+2025-03-18 20:11:55.645 [info] [Model][openRepository] Opened repository: /home/soufian
+2025-03-18 20:11:55.656 [info] > git rev-parse --show-toplevel [3ms]
+2025-03-18 20:11:55.660 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-03-18 20:11:55.661 [info] > git config --get commit.template [11ms]
+2025-03-18 20:11:55.707 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [42ms]
+2025-03-18 20:11:55.727 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [6ms]
+2025-03-18 20:11:55.976 [info] > git show --textconv :holbertonschool-web_front_end/html_advanced/2-index.html [14ms]
+2025-03-18 20:11:55.982 [info] > git ls-files --stage -- holbertonschool-web_front_end/html_advanced/2-index.html [14ms]
+2025-03-18 20:11:55.987 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [1ms]
+2025-03-18 20:11:56.028 [info] > git blame --root --incremental f0556e4dd25fc713b83c171ef78b6bd17a1c10c1 -- holbertonschool-web_front_end/html_advanced/2-index.html [2ms]
+2025-03-18 20:11:56.028 [info] fatal: no such path holbertonschool-web_front_end/html_advanced/2-index.html in f0556e4dd25fc713b83c171ef78b6bd17a1c10c1
+2025-03-18 20:11:56.234 [info] > git status -z -uall [520ms] (cancelled)
+2025-03-18 20:11:56.246 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [23ms]
+2025-03-18 20:11:57.647 [info] > git check-ignore -v -z --stdin [1409ms]
+2025-03-18 20:11:57.648 [info] > git config --get --local branch.main.vscode-merge-base [1398ms]
+2025-03-18 20:11:57.652 [info] > git config --get commit.template [1408ms]
+2025-03-18 20:11:57.652 [info] > git fetch [2008ms]
+2025-03-18 20:11:57.652 [info] Auto packing the repository in background for optimum performance.
+See "git help gc" for manual housekeeping.
+2025-03-18 20:11:57.685 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [34ms]
+2025-03-18 20:11:57.702 [info] > git merge-base refs/heads/main refs/remotes/origin/main [11ms]
+2025-03-18 20:11:57.709 [info] > git config --get commit.template [24ms]
+2025-03-18 20:11:57.713 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [12ms]
+2025-03-18 20:11:57.723 [info] > git diff --name-status -z --diff-filter=ADMR f0556e4dd25fc713b83c171ef78b6bd17a1c10c1...refs/remotes/origin/main [14ms]
+2025-03-18 20:11:57.727 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/soufian/.git/refs/remotes/origin/main'
+2025-03-18 20:11:57.729 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [7ms]
+2025-03-18 20:11:57.733 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/soufian/.git/refs/remotes/origin/main'
+2025-03-18 20:11:57.734 [info] > git rev-parse refs/remotes/origin/main [7ms]
+2025-03-18 20:11:57.739 [info] > git rev-parse refs/remotes/origin/main [6ms]
+2025-03-18 20:11:57.753 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [4ms]
+2025-03-18 20:11:57.946 [info] > git status -z -uall [202ms] (cancelled)
+2025-03-18 20:11:59.726 [info] > git ls-files --stage -- holbertonschool-web_front_end/html_advanced/2-index.html [34ms]
+2025-03-18 20:11:59.730 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [2ms]
+2025-03-18 20:11:59.740 [info] > git show --textconv :holbertonschool-web_front_end/html_advanced/2-index.html [5ms]
+2025-03-18 20:12:27.221 [info] > git ls-files --stage -- holbertonschool-web_front_end/html_advanced/2-index.html [4ms]
+2025-03-18 20:12:27.225 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [1ms]
+2025-03-18 20:12:27.237 [info] > git show --textconv :holbertonschool-web_front_end/html_advanced/2-index.html [4ms]
+2025-03-18 20:14:58.389 [info] > git fetch [449ms]
+2025-03-18 20:14:58.399 [info] > git config --get commit.template [4ms]
+2025-03-18 20:14:58.399 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2025-03-18 20:14:58.403 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/soufian/.git/refs/remotes/origin/main'
+2025-03-18 20:14:58.404 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-03-18 20:14:58.412 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-18 20:14:58.614 [info] > git status -z -uall [208ms] (cancelled)
+2025-03-18 20:14:59.977 [info] > git ls-files --stage -- holbertonschool-web_front_end/html_advanced/2-index.html [5ms]
+2025-03-18 20:14:59.981 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [1ms]
+2025-03-18 20:14:59.992 [info] > git show --textconv :holbertonschool-web_front_end/html_advanced/2-index.html [4ms]
+2025-03-18 20:17:59.071 [info] > git fetch [453ms]
+2025-03-18 20:17:59.080 [info] > git config --get commit.template [4ms]
+2025-03-18 20:17:59.081 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-18 20:17:59.085 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/soufian/.git/refs/remotes/origin/main'
+2025-03-18 20:17:59.086 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-03-18 20:17:59.096 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-03-18 20:17:59.292 [info] > git status -z -uall [203ms] (cancelled)
+2025-03-18 20:18:00.665 [info] > git ls-files --stage -- holbertonschool-web_front_end/html_advanced/2-index.html [5ms]
+2025-03-18 20:18:00.670 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [1ms]
+2025-03-18 20:18:00.680 [info] > git show --textconv :holbertonschool-web_front_end/html_advanced/2-index.html [4ms]
+2025-03-18 20:20:59.733 [info] > git fetch [435ms]
+2025-03-18 20:20:59.741 [info] > git config --get commit.template [4ms]
+2025-03-18 20:20:59.742 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-18 20:20:59.745 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/soufian/.git/refs/remotes/origin/main'
+2025-03-18 20:20:59.746 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-03-18 20:20:59.758 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-03-18 20:20:59.963 [info] > git status -z -uall [213ms] (cancelled)
+2025-03-18 20:21:01.305 [info] > git ls-files --stage -- holbertonschool-web_front_end/html_advanced/2-index.html [3ms]
+2025-03-18 20:21:01.310 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [1ms]
+2025-03-18 20:21:01.322 [info] > git show --textconv :holbertonschool-web_front_end/html_advanced/2-index.html [4ms]
+2025-03-18 20:24:00.566 [info] > git fetch [598ms]
+2025-03-18 20:24:00.576 [info] > git config --get commit.template [5ms]
+2025-03-18 20:24:00.577 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-18 20:24:00.581 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/soufian/.git/refs/remotes/origin/main'
+2025-03-18 20:24:00.583 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-03-18 20:24:00.592 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-18 20:24:01.525 [info] > git status -z -uall [939ms] (cancelled)
+2025-03-18 20:24:02.837 [info] > git ls-files --stage -- holbertonschool-web_front_end/html_advanced/2-index.html [6ms]
+2025-03-18 20:24:02.842 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [1ms]
+2025-03-18 20:24:02.853 [info] > git show --textconv :holbertonschool-web_front_end/html_advanced/2-index.html [3ms]
+2025-03-18 20:27:01.978 [info] > git fetch [449ms]
+2025-03-18 20:27:01.986 [info] > git config --get commit.template [4ms]
+2025-03-18 20:27:01.987 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-18 20:27:01.990 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/soufian/.git/refs/remotes/origin/main'
+2025-03-18 20:27:01.991 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-03-18 20:27:02.001 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-03-18 20:27:02.203 [info] > git status -z -uall [209ms] (cancelled)
+2025-03-18 20:27:03.550 [info] > git ls-files --stage -- holbertonschool-web_front_end/html_advanced/2-index.html [5ms]
+2025-03-18 20:27:03.554 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [1ms]
+2025-03-18 20:27:03.565 [info] > git show --textconv :holbertonschool-web_front_end/html_advanced/2-index.html [4ms]
+2025-03-18 21:08:20.128 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [45ms]
+2025-03-18 21:08:20.642 [info] > git check-ignore -v -z --stdin [20ms]
+2025-03-18 21:08:20.823 [info] > git fetch [728ms]
+2025-03-18 21:08:20.835 [info] > git config --get commit.template [5ms]
+2025-03-18 21:08:20.836 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2025-03-18 21:08:20.842 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/soufian/.git/refs/remotes/origin/main'
+2025-03-18 21:08:20.844 [info] > git rev-parse refs/remotes/origin/main [3ms]
+2025-03-18 21:08:20.860 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-03-18 21:08:22.086 [info] > git status -z -uall [1236ms] (cancelled)
+2025-03-18 21:08:23.913 [info] > git ls-files --stage -- holbertonschool-web_front_end/html_advanced/2-index.html [7ms]
+2025-03-18 21:08:23.918 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [1ms]
+2025-03-18 21:08:23.931 [info] > git show --textconv :holbertonschool-web_front_end/html_advanced/2-index.html [3ms]
+2025-03-18 21:08:24.800 [info] > git check-ignore -v -z --stdin [5ms]
+2025-03-18 21:08:29.920 [info] > git log --oneline --cherry main...main@{upstream} -- [3ms]
+2025-03-18 21:08:29.961 [info] > git pull --tags origin main [37ms]
+2025-03-18 21:08:29.961 [info] error: cannot pull with rebase: You have unstaged changes.
+error: additionally, your index contains uncommitted changes.
+error: please commit or stash them.
+2025-03-18 21:08:29.970 [info] > git config --get commit.template [5ms]
+2025-03-18 21:08:29.971 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-18 21:08:29.975 [warning] [Git][revParse] Unable to read file: ENOENT: no such file or directory, open '/home/soufian/.git/refs/remotes/origin/main'
+2025-03-18 21:08:29.976 [info] > git rev-parse refs/remotes/origin/main [1ms]
+2025-03-18 21:08:29.987 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [2ms]
+2025-03-18 21:08:30.168 [info] > git status -z -uall [188ms] (cancelled)
+2025-03-18 21:08:32.422 [info] > git ls-files --stage -- holbertonschool-web_front_end/html_advanced/2-index.html [5ms]
+2025-03-18 21:08:32.428 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [2ms]
+2025-03-18 21:08:32.442 [info] > git show --textconv :holbertonschool-web_front_end/html_advanced/2-index.html [5ms]
+2025-03-18 21:08:34.540 [info] > git check-ignore -v -z --stdin [7ms]
+2025-03-18 21:08:37.717 [info] > git show --textconv :.git/COMMIT_EDITMSG [5ms]
+2025-03-18 21:08:37.723 [info] > git ls-files --stage -- .git/COMMIT_EDITMSG [7ms]
+2025-03-18 21:08:37.728 [info] > git hash-object -t tree /dev/null [6ms]
+2025-03-18 21:08:37.729 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/soufian/.git/COMMIT_EDITMSG.git?%7B%22path%22%3A%22%2Fhome%2Fsoufian%2F.git%2FCOMMIT_EDITMSG%22%2C%22ref%22%3A%22%22%7D
+2025-03-18 21:08:37.739 [info] > git hash-object -t tree /dev/null [12ms]
+2025-03-18 21:08:37.739 [warning] [GitFileSystemProvider][stat] File not found - git:/home/soufian/.git/COMMIT_EDITMSG.git?%7B%22path%22%3A%22%2Fhome%2Fsoufian%2F.git%2FCOMMIT_EDITMSG%22%2C%22ref%22%3A%22%22%7D
+2025-03-18 21:08:37.867 [info] > git check-ignore -v -z --stdin [6ms]
+2025-03-18 21:09:35.065 [info] > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%D%n%B -z --shortstat --diff-merges=first-parent -n50 --skip=0 --topo-order --decorate=full --stdin [10ms]

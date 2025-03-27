@@ -1,23 +1,3 @@
-ls
-mkdir test
-ls
-cd test/
-ls
-touch 0-add_integer.txt 3-say_my_name.txt 4-print_square.txt 5-test_indentation.txt 6-max_integer.txt
-ls
-cd ..
-ls
-python3 -m doctest ./tests/*
-cd test/
-python3 -m doctest ./tests/
-python3 -m doctest ./tests/*
-python3 -m doctest ./0-add_integer.txt 
-python3 -m doctest -v ./tests/0-add_integer.txt
-python3 -m doctest -v ./0-add_integer.txt
-cd ..
-python3 -m doctest -v ./tests/0-add_integer.txt
-ga 0-add_integer.py 
-gc 'tt'
 gp
 cd tests/
 ga 0-add_integer.txt 
@@ -1998,3 +1978,23 @@ chmod +x 1-index.html 2-index.html 3-index.html article.html 5-index.html 6-inde
 ls
 touch 0-index.html
 chmod +x 0-index.html 
+ls
+cd ..
+ls
+mkdir ES6_basic
+ls
+cd ES6_basic/
+npm install --save-dev jest
+udo apt install npm
+sudo apt install npm
+npm install --save-dev babel-jest @babel/core @babel/preset-env
+npm install --save-dev eslint
+vi package.json
+vi babel.config.js
+vi .eslintrc.js
+ls
+cd node_modules/
+ls
+cd ..
+clear
+ls
