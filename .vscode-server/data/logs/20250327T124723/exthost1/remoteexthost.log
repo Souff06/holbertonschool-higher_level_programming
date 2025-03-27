@@ -1,0 +1,10 @@
+2025-03-27 12:47:26.370 [info] Extension host with pid 65509 started
+2025-03-27 12:47:26.401 [info] Lock '/home/soufian/.vscode-server/data/User/workspaceStorage/81297a1046399a998693f0aecde550ae/vscode.lock': Lock acquired.
+2025-03-27 12:47:26.502 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'onFileSystem:git', root cause: vscode.git
+2025-03-27 12:47:26.586 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'onFileSystem:git'
+2025-03-27 12:47:27.005 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-03-27 12:47:27.470 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-03-27 12:47:28.015 [info] Eager extensions activated
+2025-03-27 12:47:28.017 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-03-27 12:47:28.018 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-03-27 12:47:28.019 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'

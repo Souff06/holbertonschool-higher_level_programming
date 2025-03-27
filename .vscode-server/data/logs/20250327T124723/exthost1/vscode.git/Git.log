@@ -1,0 +1,46 @@
+2025-03-27 12:47:27.376 [info] [main] Log level: Info
+2025-03-27 12:47:27.377 [info] [main] Validating found git in: "git"
+2025-03-27 12:47:27.377 [info] [main] Using git "2.34.1" from "git"
+2025-03-27 12:47:27.377 [info] [Model][doInitialScan] Initial repository scan started
+2025-03-27 12:47:27.377 [info] > git rev-parse --show-toplevel [13ms]
+2025-03-27 12:47:27.377 [info] > git rev-parse --git-dir --git-common-dir [114ms]
+2025-03-27 12:47:27.377 [info] [Model][openRepository] Opened repository: /home/soufian
+2025-03-27 12:47:27.377 [info] > git rev-parse --show-toplevel [45ms]
+2025-03-27 12:47:27.377 [info] [Model][doInitialScan] Initial repository scan completed - repositories (1), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2025-03-27 12:47:27.377 [info] > git config --get commit.template [84ms]
+2025-03-27 12:47:27.377 [info] > git show --textconv HEAD:holbertonschool-sorting_algorithms [12ms]
+2025-03-27 12:47:27.377 [info] > git ls-tree -l HEAD -- holbertonschool-sorting_algorithms [6ms]
+2025-03-27 12:47:27.395 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2025-03-27 12:47:27.397 [info] > git hash-object -t tree /dev/null [22ms]
+2025-03-27 12:47:27.399 [warning] [GitFileSystemProvider][readFile] File not found - git:/home/soufian/holbertonschool-sorting_algorithms?%7B%22path%22%3A%22%2Fhome%2Fsoufian%2Fholbertonschool-sorting_algorithms%22%2C%22ref%22%3A%22~%22%7D
+2025-03-27 12:47:27.437 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [8ms]
+2025-03-27 12:47:27.729 [info] > git status -z -uall [308ms]
+2025-03-27 12:47:27.815 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [23ms]
+2025-03-27 12:47:27.824 [info] > git check-ignore -v -z --stdin [18ms]
+2025-03-27 12:47:27.826 [info] > git config --get commit.template [13ms]
+2025-03-27 12:47:27.829 [info] > git config --get --local branch.main.vscode-merge-base [6ms]
+2025-03-27 12:47:27.867 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/origin/main refs/remotes/origin/main [30ms]
+2025-03-27 12:47:27.879 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [16ms]
+2025-03-27 12:47:27.882 [info] > git merge-base refs/heads/main refs/remotes/origin/main [8ms]
+2025-03-27 12:47:27.913 [info] > git diff --name-status -z --diff-filter=ADMR ebb5f2a7141e9e9efd240821a8432b4b274854df...refs/remotes/origin/main [20ms]
+2025-03-27 12:47:27.916 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [5ms]
+2025-03-27 12:47:28.330 [info] > git fetch [1074ms]
+2025-03-27 12:47:28.353 [info] > git status -z -uall [449ms] (cancelled)
+2025-03-27 12:47:28.359 [info] > git config --get commit.template [8ms]
+2025-03-27 12:47:28.373 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2025-03-27 12:47:28.406 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [14ms]
+2025-03-27 12:47:29.018 [info] > git status -z -uall [636ms]
+2025-03-27 12:47:29.351 [info] > git check-ignore -v -z --stdin [51ms]
+2025-03-27 12:47:31.145 [info] > git config --get commit.template [5ms]
+2025-03-27 12:47:31.147 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-27 12:47:31.157 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-03-27 12:47:31.351 [info] > git status -z -uall [201ms]
+2025-03-27 12:47:32.064 [info] > git check-ignore -v -z --stdin [14ms]
+2025-03-27 12:47:36.364 [info] > git config --get commit.template [4ms]
+2025-03-27 12:47:36.365 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2025-03-27 12:47:36.375 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [3ms]
+2025-03-27 12:47:36.529 [info] > git status -z -uall [161ms]
+2025-03-27 12:47:42.018 [info] > git config --get commit.template [10ms]
+2025-03-27 12:47:42.023 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [6ms]
+2025-03-27 12:47:42.062 [info] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [25ms]
+2025-03-27 12:47:42.520 [info] > git status -z -uall [490ms]
