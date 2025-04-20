@@ -1,47 +1,3 @@
-touch 0-main.py 0-lookup.py 1-main.py 1-my_list.py 2-main.py 2-is_same_class.py 3-main.py 3-is_kind_of_class.py 4-main.py 4-inherits_from.py 5-main.py 5-base_geometry.py 6-main.py 6-base_geometry.py 7-main.py 7-base_geometry.py 8-main.py 8-rectangle.py 9-main.py 9-rectangle.py 10-main.py 10-square.py 11-main.py 11-square.py
-ls
-chmod +x 0-main.py 0-lookup.py 1-main.py 1-my_list.py 2-main.py 2-is_same_class.py 3-main.py 3-is_kind_of_class.py 4-main.py 4-inherits_from.py 5-main.py 5-base_geometry.py 6-main.py 6-base_geometry.py 7-main.py 7-base_geometry.py 8-main.py 8-rectangle.py 9-main.py 9-rectangle.py 10-main.py 10-square.py 11-main.py 11-square.py
-ls
-mkdir tests
-cd tests/
-touch 1-my_list.txt 7-base_geometry.txt
-ls
-cd ..
-clear
-ls
-clear
-./0-main.py 
-clare
-clear
-ga 0-lookup.py 
-gc 'tt'
-gp
-ls
-ga REAMDE.md 
-gc 'readme'
-gp
-ls
-cd holbertonschool-higher_level_programming/
-l
-ls
-cd ..
-rm -r holbertonschool-higher_level_programming/
-ls
-ga .
-gc 'gg'
-gp
-clear
-cd python-data_structures/
-pycodestyle 6-print_matrix_integer.py 
-ga 6-print_matrix_integer.py
-gc 'pycode'
-gp
-pycodestyle 7-add_tuple.py 
-ga 7-add_tuple.py 
-gc 'pycode'
-gp
-clear
-pycodestyle 10-divisible_by_2.py 
 ga 10-divisible_by_2.py 
 gc 'pycode'
 gp
@@ -1998,3 +1954,47 @@ git push origin main
 git add .
 git commit -m 'hhh'
 git push origin main
+cd ..
+git clone https://github.com/Souff06/holbertonschool-web_back_end.git
+cd holbertonschool-web_back_end/
+cd ES6_basic/
+ls
+mkdir ES6_classes
+ls
+cd ES6_classes/
+ls
+touch 0-classroom.js 1-make_classrooms.js 10-car.js 2-hbtn_course.js 3-currency.js 4-pricing.js 5-building.js 6-sky_high.js 7-airport.js 8-hbtn_class.js 9-hoisting.js README.md 
+chmod +x 0-classroom.js 1-make_classrooms.js 10-car.js 2-hbtn_course.js 3-currency.js 4-pricing.js 5-building.js 6-sky_high.js 7-airport.js 8-hbtn_class.js 9-hoisting.js README.md 
+ls
+touch .eslintrc.js babel.config.js package-lock.json package.json 
+cd ..
+ls
+mkdir ES6_data_manipulation
+cd ES6_data_manipulation/
+ls
+touch README.md 0-get_list_students.js 1-get_list_student_ids.js 10-update_uniq_items.js 2-get_students_by_loc.js 3-get_ids_sum.js 4-update_grade_by_city.js 5-typed_arrays.js 6-set.js 7-has_array_values.js 8-clean_set.js 9-groceries_list.js 
+chmod +x 0-get_list_students.js 1-get_list_student_ids.js 10-update_uniq_items.js 2-get_students_by_loc.js 3-get_ids_sum.js 4-update_grade_by_city.js 5-typed_arrays.js 6-set.js 7-has_array_values.js 8-clean_set.js 9-groceries_list.js 
+clear
+ls
+cd ..
+ls
+cd ..
+ls
+cd holbertonschool-web_front_end/
+ls
+mkdir CSS_advanced
+ls
+clear
+ls
+cd CSS_advanced/
+LS
+ls
+mkdir styles
+ls
+cd styles/
+ls
+touch 1-style.css 2-style.css 3-style.css 4-style.css 5-style.css 6-style.css 7-style.css 8-style.css 9-style.css 10-style.css 11-style.css 12-style.css 13-style.css 14-style.css 15-style.css 16-style.css 17-style.css 18-style.css 19-style.css 20-style.css 21-style.css 22-style.css 23-style.css 24-style.css 25-style.css 26-style.css 27-style.css 28-style.css 29-style.css 30-style.css 31-style.css 32-style.css  
+ls
+chmod +x 1-style.css 2-style.css 3-style.css 4-style.css 5-style.css 6-style.css 7-style.css 8-style.css 9-style.css 10-style.css 11-style.css 12-style.css 13-style.css 14-style.css 15-style.css 16-style.css 17-style.css 18-style.css 19-style.css 20-style.css 21-style.css 22-style.css 23-style.css 24-style.css 25-style.css 26-style.css 27-style.css 28-style.css 29-style.css 30-style.css 31-style.css 32-style.css  
+clear
+ls
